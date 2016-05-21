@@ -7,11 +7,30 @@ The communication between the two will be done using WebSockets. It'll be more l
 formed by apps that communicate by passing messages.
 
 
-For getting a better understanding of our project architecture go through the following tutorials.
+For getting a better understanding of our project architecture following tutorials may help you.
+(Add better tutorials to the list if you find any)
 
 [1] http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
 
 [2] http://survivejs.com/webpack_react/introduction/
+
+[3] https://egghead.io/series/getting-started-with-redux
+
+
+
+VERSIONING SYSTEM
+=================
+
+We are using GIT as our VCS.We will have a master branch and a development branch. Master branch must always have a
+deliverable project in working condition. The development branch can have the in-progress codes.
+
+You could go through the following tutorials for getting a flavour of the VCS system that we are going to follow
+through out the development, testing and deployment of the CMS.
+
+[1] http://nvie.com/posts/a-successful-git-branching-model/
+
+[2] https://github.com/DailyGrommet/PDF-Resources/blob/master/Pragmatic.Bookshelf.Pragmatic.Version.Control.Using.Git.Dec.2008..pdf
+
 
 
 
