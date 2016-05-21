@@ -1,0 +1,18 @@
+************************  READ ME **************************
+
+This is the documentation file for developers of  team Papa.
+
+We are developing the CMS by using React (for the UI/ client app) and Node for handling the server part.
+The communication between the two will be done using WebSockets. It'll be more like a distributed system
+formed by apps that communicate by passing messages.
+
+
+For getting a better understanding of our project architecture go through the following tutorials.
+
+[1] http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
+
+[2] http://survivejs.com/webpack_react/introduction/
+
+
+
+Development IDE : intellij ultimate
